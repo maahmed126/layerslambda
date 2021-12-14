@@ -1,2 +1,3 @@
-TEST
-TESTING
+exports getuuid =() => {
+  return 'fake-uuid';
+}
